@@ -1,4 +1,4 @@
-// MENU SHOW HIDDEN
+// SHOW MENU HIDDEN
 const navMenu = document.getElementById('nav-menu'),
   toggleMenu = document.getElementById('nav-toggle'),
   closeMenu = document.getElementById('nav-close');
